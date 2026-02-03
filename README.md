@@ -48,7 +48,8 @@
 ## 🎬 Gameplay Preview
 
 <!-- Add a GIF or link to trailer here -->
-*Coming soon!*
+
+_Coming soon!_
 
 ---
 
@@ -62,12 +63,12 @@ Inari's Kitchen is being developed with:
 
 ### Key Systems
 
-| System | Description |
-|--------|-------------|
-| **NPC Scheduling** | NPCs follow realistic daily/weekly/seasonal routines |
-| **Quality Roll System** | Skill-based cooking outcomes with meaningful progression |
+| System                    | Description                                                     |
+| ------------------------- | --------------------------------------------------------------- |
+| **NPC Scheduling**        | NPCs follow realistic daily/weekly/seasonal routines            |
+| **Quality Roll System**   | Skill-based cooking outcomes with meaningful progression        |
 | **Customer Satisfaction** | Dynamic feedback based on food quality, wait times, and service |
-| **Crafting & Recipes** | Deep recipe system with ingredient combinations |
+| **Crafting & Recipes**    | Deep recipe system with ingredient combinations                 |
 
 ---
 
@@ -84,10 +85,10 @@ Inari's Kitchen is being developed with:
 ## 📬 Stay Connected
 
 - **Developer:** Sleepyhead Studio
-<!-- Add your links below -->
-<!-- - **Twitter:** [@YourHandle](https://twitter.com/yourhandle) -->
-<!-- - **Discord:** [Join our community](https://discord.gg/yourserver) -->
-<!-- - **Website:** [www.yoursite.com](https://www.yoursite.com) -->
+  <!-- Add your links below -->
+  <!-- - **Twitter:** [@YourHandle](https://twitter.com/yourhandle) -->
+  <!-- - **Discord:** [Join our community](https://discord.gg/yourserver) -->
+  <!-- - **Website:** [www.yoursite.com](https://www.yoursite.com) -->
 
 ---
 
