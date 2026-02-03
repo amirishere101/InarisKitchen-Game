@@ -1,0 +1,104 @@
+# 🦊 Inari's Kitchen
+
+<p align="center">
+  <img src="screenshots/banner.png" alt="Inari's Kitchen Banner" width="800">
+</p>
+
+<p align="center">
+  <em>A cozy restaurant simulation game where cooking meets storytelling</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?logo=unity" alt="Unity">
+  <img src="https://img.shields.io/badge/Platform-PC-blue" alt="PC">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Status">
+</p>
+
+---
+
+## 🍜 About the Game
+
+**Inari's Kitchen** is a heartwarming restaurant simulation game developed by **Sleepyhead Studio**. Step into the shoes of a budding chef running your own cozy kitchen, where every dish tells a story and every customer has a tale to share.
+
+### 🎮 Features
+
+- **🍳 Cook Delicious Dishes** - Master a variety of recipes with an intuitive cooking system
+- **👥 Meet Unique Characters** - Build relationships with quirky NPCs who visit your restaurant
+- **📅 Dynamic Schedules** - NPCs have their own lives, routines, and seasonal behaviors
+- **⭐ Quality Matters** - Your cooking skills affect dish quality and customer satisfaction
+- **🏠 Build Your Dream Restaurant** - Customize and expand your kitchen as you grow
+- **📖 Discover Stories** - Uncover narrative threads through conversations and events
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/gameplay-01.png" alt="Gameplay Screenshot 1" width="400">
+  <img src="screenshots/gameplay-02.png" alt="Gameplay Screenshot 2" width="400">
+</p>
+
+<p align="center">
+  <img src="screenshots/gameplay-03.png" alt="Gameplay Screenshot 3" width="400">
+  <img src="screenshots/gameplay-04.png" alt="Gameplay Screenshot 4" width="400">
+</p>
+
+---
+
+## 🎬 Gameplay Preview
+
+<!-- Add a GIF or link to trailer here -->
+*Coming soon!*
+
+---
+
+## 🛠️ Development
+
+Inari's Kitchen is being developed with:
+
+- **Engine:** Unity
+- **Art Style:** 2D Pixel Art with modern lighting
+- **Narrative:** Ink integration for dynamic dialogue
+
+### Key Systems
+
+| System | Description |
+|--------|-------------|
+| **NPC Scheduling** | NPCs follow realistic daily/weekly/seasonal routines |
+| **Quality Roll System** | Skill-based cooking outcomes with meaningful progression |
+| **Customer Satisfaction** | Dynamic feedback based on food quality, wait times, and service |
+| **Crafting & Recipes** | Deep recipe system with ingredient combinations |
+
+---
+
+## 🗓️ Roadmap
+
+- [x] Core cooking mechanics
+- [x] NPC schedule system
+- [x] Customer satisfaction system
+- [ ] Story campaign
+- [ ] Steam release
+
+---
+
+## 📬 Stay Connected
+
+- **Developer:** Sleepyhead Studio
+<!-- Add your links below -->
+<!-- - **Twitter:** [@YourHandle](https://twitter.com/yourhandle) -->
+<!-- - **Discord:** [Join our community](https://discord.gg/yourserver) -->
+<!-- - **Website:** [www.yoursite.com](https://www.yoursite.com) -->
+
+---
+
+## 📄 License
+
+© 2026 Sleepyhead Studio. All Rights Reserved.
+
+This repository is for showcase purposes only. All game assets, code, and content are proprietary.
+
+---
+
+<p align="center">
+  <strong>Made with 💜 by Sleepyhead Studio</strong>
+</p>
