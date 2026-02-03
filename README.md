@@ -35,7 +35,7 @@
 
 ### 🌱 Plant Growth
 
-*Grow your own ingredients and watch them flourish through the seasons*
+_Grow your own ingredients and watch them flourish through the seasons_
 
 <p align="center">
   <img src="screenshots/plant-growth-01.png" alt="Plant Growth 1" width="400">
@@ -44,7 +44,7 @@
 
 ### 🌅 Day & Night Cycle
 
-*Experience the charm of your restaurant from dawn to dusk*
+_Experience the charm of your restaurant from dawn to dusk_
 
 <p align="center">
   <img src="screenshots/day-night-01.png" alt="Day Time" width="400">
@@ -53,7 +53,7 @@
 
 ### 🎣 Fishing
 
-*Take a break and catch fresh ingredients at the nearby waters*
+_Take a break and catch fresh ingredients at the nearby waters_
 
 <p align="center">
   <img src="screenshots/fishing-01.png" alt="Fishing 1" width="400">
@@ -62,7 +62,7 @@
 
 ### 🏠 Restaurant Customization
 
-*Design and personalize your dream kitchen*
+_Design and personalize your dream kitchen_
 
 <p align="center">
   <img src="screenshots/customization.png" alt="Restaurant Customization" width="600">
