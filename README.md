@@ -86,27 +86,6 @@ Inari's Kitchen is being developed with:
 - **Art Style:** 2D Pixel Art with modern lighting
 - **Narrative:** Ink integration for dynamic dialogue
 
-### Key Systems
-
-| System                    | Description                                                     |
-| ------------------------- | --------------------------------------------------------------- |
-| **NPC Scheduling**        | NPCs follow realistic daily/weekly/seasonal routines            |
-| **Quality Roll System**   | Skill-based cooking outcomes with meaningful progression        |
-| **Customer Satisfaction** | Dynamic feedback based on food quality, wait times, and service |
-| **Crafting & Recipes**    | Deep recipe system with ingredient combinations                 |
-
----
-
-## 🗓️ Roadmap
-
-- [x] Core cooking mechanics
-- [x] NPC schedule system
-- [x] Customer satisfaction system
-- [ ] Story campaign
-- [ ] Steam release
-
----
-
 ## 📬 Stay Connected
 
 - **Developer:** Sleepyhead Studio
