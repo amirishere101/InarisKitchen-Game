@@ -33,14 +33,39 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/gameplay-01.png" alt="Gameplay Screenshot 1" width="400">
-  <img src="screenshots/gameplay-02.png" alt="Gameplay Screenshot 2" width="400">
-</p>
+### 🌱 Plant Growth
+
+*Grow your own ingredients and watch them flourish through the seasons*
 
 <p align="center">
-  <img src="screenshots/gameplay-03.png" alt="Gameplay Screenshot 3" width="400">
-  <img src="screenshots/gameplay-04.png" alt="Gameplay Screenshot 4" width="400">
+  <img src="screenshots/plant-growth-01.png" alt="Plant Growth 1" width="400">
+  <img src="screenshots/plant-growth-02.png" alt="Plant Growth 2" width="400">
+</p>
+
+### 🌅 Day & Night Cycle
+
+*Experience the charm of your restaurant from dawn to dusk*
+
+<p align="center">
+  <img src="screenshots/day-night-01.png" alt="Day Time" width="400">
+  <img src="screenshots/day-night-02.png" alt="Night Time" width="400">
+</p>
+
+### 🎣 Fishing
+
+*Take a break and catch fresh ingredients at the nearby waters*
+
+<p align="center">
+  <img src="screenshots/fishing-01.png" alt="Fishing 1" width="400">
+  <img src="screenshots/fishing-02.png" alt="Fishing 2" width="400">
+</p>
+
+### 🏠 Restaurant Customization
+
+*Design and personalize your dream kitchen*
+
+<p align="center">
+  <img src="screenshots/customization.png" alt="Restaurant Customization" width="600">
 </p>
 
 ---
