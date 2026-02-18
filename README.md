@@ -35,7 +35,7 @@
 
 ### 🌱 Farming
 
-_Grow your own ingredients and watch them flourish through the seasons and Decorate your farm however you would like!_
+_Grow your own ingredients and watch them flourish through the seasons and decorate your farm however you would like!_
 
 <p align="center">
   <img src="screenshots/plant-growth-01.png" alt="Plant Growth 1" width="400">
