@@ -16,26 +16,26 @@
 
 ---
 
-## 🍜 About the Game
+## About the Game
 
 **Inari's Kitchen** is a heartwarming restaurant simulation game developed by **Sleepyhead Studio**. Step into the shoes of a budding chef running your own cozy kitchen, where every dish tells a story and every customer has a tale to share.
 
-### 🎮 Features
+### Features
 
-- **🍳 Cook Delicious Dishes** - Master a variety of recipes with an intuitive cooking system
-- **👥 Meet Unique Characters** - Build relationships with quirky NPCs who visit your restaurant
-- **📅 Dynamic Schedules** - NPCs have their own lives, routines, and seasonal behaviors
-- **⭐ Quality Matters** - Your cooking skills affect dish quality and customer satisfaction
-- **🏠 Build Your Dream Restaurant** - Customize and expand your kitchen as you grow
-- **📖 Discover Stories** - Uncover narrative threads through conversations and events
+- **Cook Delicious Dishes** - Master a variety of recipes with an intuitive cooking system
+- **Meet Unique Characters** - Build relationships with quirky NPCs who visit your restaurant
+- **Dynamic Schedules** - NPCs have their own lives, routines, and seasonal behaviors
+- **Quality Matters** - Your cooking skills affect dish quality and customer satisfaction
+- **Build Your Dream Restaurant** - Customize and expand your kitchen as you grow
+- **Discover Stories** - Uncover narrative threads through conversations and events
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🌱 Plant Growth
+### 🌱 Farming
 
-_Grow your own ingredients and watch them flourish through the seasons_
+_Grow your own ingredients and watch them flourish through the seasons and decorate your farm however you would like!_
 
 <p align="center">
   <img src="screenshots/plant-growth-01.png" alt="Plant Growth 1" width="400">
